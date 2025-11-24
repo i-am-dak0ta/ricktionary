@@ -10,4 +10,3 @@ object TestTags {
     const val CHARACTER_DETAILS_SCREEN = "character_details_screen"
     const val CHARACTER_DETAILS_NAME = "character_details_name"
 }
-
